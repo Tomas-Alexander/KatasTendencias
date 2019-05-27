@@ -1,0 +1,11 @@
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\bin\Debug\netcoreapp2.1\ArgsKata3.deps.json
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\bin\Debug\netcoreapp2.1\ArgsKata3.runtimeconfig.json
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\bin\Debug\netcoreapp2.1\ArgsKata3.runtimeconfig.dev.json
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\bin\Debug\netcoreapp2.1\ArgsKata3.dll
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\bin\Debug\netcoreapp2.1\ArgsKata3.pdb
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\obj\Debug\netcoreapp2.1\ArgsKata3.csprojAssemblyReference.cache
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\obj\Debug\netcoreapp2.1\ArgsKata3.csproj.CoreCompileInputs.cache
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\obj\Debug\netcoreapp2.1\ArgsKata3.AssemblyInfoInputs.cache
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\obj\Debug\netcoreapp2.1\ArgsKata3.AssemblyInfo.cs
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\obj\Debug\netcoreapp2.1\ArgsKata3.dll
+C:\Users\elcar\source\repos\ArgsKata3\ArgsKata3\obj\Debug\netcoreapp2.1\ArgsKata3.pdb

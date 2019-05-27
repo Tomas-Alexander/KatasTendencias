@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArgsKata3": {
+      "commandName": "Project",
+      "commandLineArgs": "-l -p -d"
+    }
+  }
+}
